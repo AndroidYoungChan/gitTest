@@ -1,0 +1,16 @@
+1. git 설치
+2. working directory 설정
+ - git init
+3. git에서 사용할 user name과 email 설정
+ - git config --global user.name "name"
+ - git config --global user.email "email@asd.com"
+4. staging area에 등록
+ - git add
+ * 변경된 항목들을 커밋하기 전에 등록
+5. local repository에 등록
+  - git commit -m "버전관리 메시지"
+6. log 확인
+  - git log
+7. git 구성 확인
+  - git config
+ - 나가는 방법 : q
