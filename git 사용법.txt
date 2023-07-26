@@ -30,3 +30,5 @@
 9. github에서 가져오기
   > mkdir downTest
   > git clone 주소
+10. 새롭게 수정한 것 가져오기
+   > git pull origin master
